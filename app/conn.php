@@ -1,0 +1,1 @@
+<?php $conn = new mysqli('localhost', 'u868458939_wendercliente', 'V&@thz=0', 'u868458939_wendercliente'); ?>
