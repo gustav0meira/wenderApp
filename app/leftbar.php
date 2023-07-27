@@ -18,7 +18,6 @@
 	}
 	.sidebar .logo{
 		width: 50%;
-		filter: invert(100%);
 	}
 	.sidebar .social{
 		padding: 10px;
